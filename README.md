@@ -4,7 +4,7 @@ Works be either typing in someones name, or mousing over the player to draw thei
 
  
 
-Github source *should* be updated every week to keep the list up to date.
+Github source should be updated every week to keep the list up to date.
 
  
 

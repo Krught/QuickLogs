@@ -1,0 +1,9 @@
+## Interface: 30401
+## Title: Quick Logs
+## Notes: Quick Logs for Classic.
+## SavedVariables: QuickLogs_SavedVariables
+## Author: Remour
+## Version: 0.00001
+
+logs.lua
+main.lua

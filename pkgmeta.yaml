@@ -1,0 +1,3 @@
+package-as: QuickLogs
+manual-changelog:
+  filename: CHANGELOG.txt
